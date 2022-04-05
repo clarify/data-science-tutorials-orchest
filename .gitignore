@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Clarify credentials
+**/clarify-credentials.json
+*.json
